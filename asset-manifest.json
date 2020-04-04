@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/czacney/EmployeeDirectory.git/static/css/main.38a95005.chunk.css",
+    "main.js": "/czacney/EmployeeDirectory.git/static/js/main.8541d362.chunk.js",
+    "main.js.map": "/czacney/EmployeeDirectory.git/static/js/main.8541d362.chunk.js.map",
+    "runtime-main.js": "/czacney/EmployeeDirectory.git/static/js/runtime-main.82b3c3b2.js",
+    "runtime-main.js.map": "/czacney/EmployeeDirectory.git/static/js/runtime-main.82b3c3b2.js.map",
+    "static/js/2.8caca656.chunk.js": "/czacney/EmployeeDirectory.git/static/js/2.8caca656.chunk.js",
+    "static/js/2.8caca656.chunk.js.map": "/czacney/EmployeeDirectory.git/static/js/2.8caca656.chunk.js.map",
+    "index.html": "/czacney/EmployeeDirectory.git/index.html",
+    "precache-manifest.b566b521f35513daef1266ea1963a3b1.js": "/czacney/EmployeeDirectory.git/precache-manifest.b566b521f35513daef1266ea1963a3b1.js",
+    "service-worker.js": "/czacney/EmployeeDirectory.git/service-worker.js",
+    "static/css/main.38a95005.chunk.css.map": "/czacney/EmployeeDirectory.git/static/css/main.38a95005.chunk.css.map",
+    "static/js/2.8caca656.chunk.js.LICENSE.txt": "/czacney/EmployeeDirectory.git/static/js/2.8caca656.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b3c3b2.js",
+    "static/js/2.8caca656.chunk.js",
+    "static/css/main.38a95005.chunk.css",
+    "static/js/main.8541d362.chunk.js"
+  ]
+}
